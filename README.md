@@ -7,11 +7,11 @@
 | 2015~19 | QAT in Australia brisbane | Chef:jp:             |
 | 2020    | Nosecondo                 | Chef:it:             |
 | 2021    | Looking for somewhere:)   | Front-end stack      |
-|     /01 | Udemy | The Modern Javascript Bootcamp Course (2020)          |
-|     /01 |       | JavaScript Algorithms and Data Structures Masterclass |
-|     /02 |       | JavaScript: Understanding the Weird Parts             |
-|     /02 |       | Modern React with Redux [2020 Update]                 |
-|     /03 |       | Java Programing for software Developers               |
-|     /03 |       | IOS & Swift - IOS APP Development Bootcamp            |
+| 2021.01 | Udemy | The Modern Javascript Bootcamp Course (2020)          |
+| 2021.01 |       | JavaScript Algorithms and Data Structures Masterclass |
+| 2021.02 |       | JavaScript: Understanding the Weird Parts             |
+| 2021.02 |       | Modern React with Redux [2020 Update]                 |
+| 2021.03 |       | Java Programing for software Developers               |
+| 2021.03 |       | IOS & Swift - IOS APP Development Bootcamp            |
 
 
