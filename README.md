@@ -11,7 +11,5 @@
 | 2021.01 |       | JavaScript Algorithms and Data Structures Masterclass |
 | 2021.02 |       | JavaScript: Understanding the Weird Parts             |
 | 2021.02 |       | Modern React with Redux [2020 Update]                 |
-| 2021.03 |       | Java Programing for software Developers               |
-| 2021.03 |       | IOS & Swift - IOS APP Development Bootcamp            |
 
 
