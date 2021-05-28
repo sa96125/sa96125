@@ -1,5 +1,6 @@
-###  내 인생이 개발이야:) 
-about me https://girin.tistory.com
+###  평범한 것을 :)
+portfolio.  https://chaplin.cloud.pw  
+blog.       https://girinjs.tistory.com
 
 | year    | place                     | learning             |
 |:--------|:--------------------------|:---------------------|
