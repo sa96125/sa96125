@@ -1,5 +1,5 @@
-###  내 인생이 개발이야:)  
-:floppy_disk: <https://cloud.chaplin.pw>
+###  내 인생이 개발이야:) 
+about me https://girin.tistory.com
 
 | year    | place                     | learning             |
 |:--------|:--------------------------|:---------------------|
