@@ -12,10 +12,8 @@ blog.       https://girinjs.tistory.com
 | 2021.02 |       | JavaScript: Understanding the Weird Parts                    |
 | 2021.02 |       | Modern React with Redux                                      |
 | 2021.04 |       | Vue - The Complete Guide (w/ Router, Vuex, Composition API)  |
-| 2021.06 |       | NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)  |
-| 2021.07 |       | Clean code                                                   |
-| 2021.08 |       | Typescript: The Complete Developer's Guide                   |
+| 2021.07 |       | NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)  |                 |
 | 2021.09 |       | Learn to create WebXR, VR and AR, experiences using Three.JS |
-| 2021.10 | Three | The ultimate Three.js course                                 |
+| 2021.09 |       | React & Typescript                                           |
 
 
