@@ -16,6 +16,5 @@ Vue, React, Next, Nest, Three, AR, Tailwind, Apollo Client, Bootstrap, TypeORM
 
 ### Value.
 
-Even if you bump into your own incompetence and limitations, Grab it and move forward. I will continue to run on the path I think is right.<br />
-Time neither comforts me nor waits for me. So just make each day count.
+Even if you bump into your own incompetence and limitations, Grab it and move forward. I will continue to run on the path I think is right. Time neither comforts me nor waits for me. So just make each day count.
 <br /><br />
