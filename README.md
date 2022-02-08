@@ -2,7 +2,7 @@
 https://girinjs.tistory.com <br />
 <br />
 
-### Experienced Javascript libraries / Framworks
+### Experienced Javascript libraries / Framworks.
 >	 Vue.js
 >	> React.js
 >	> > Nest.js
@@ -11,7 +11,7 @@ https://girinjs.tistory.com <br />
 >	>	>	> > > AR.js 
 <br />
 
-### Favorite languages
+### Favorite languages.
 >	 Javascript
 >	> Typescript
 >	> > CSS
