@@ -6,6 +6,6 @@ https://girinjs.tistory.com <br />
 Javascript, Typescript, CSS, HTML
 <br /><br />
 
-### Experienced Javascript libraries / Framworks.
-Vue, React, Nest, Nest, Three, AR 
+### Experienced Libraries / Framworks.
+Vue, React, Nest, Nest, Three, AR, Tailwind, Apollo Client, Bootstrap
 <br /><br />
