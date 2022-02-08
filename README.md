@@ -3,7 +3,7 @@ https://girinjs.tistory.com
 <br /><br />
 
 ### Portfolio.
-https://goat-jake.info
+https://goat-jongseung.info
 <br /><br />
 
 ### Favorite Languages.
