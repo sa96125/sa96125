@@ -3,7 +3,7 @@ https://girinjs.tistory.com
 <br /><br />
 
 ### Portfolio.
-https://goat-jongseung.info (sorry, it's not available. processing migration to Next.js.)
+https://goat-jongseung.info (Sorry, It's not available. on processing migration to Next.js)
 <br /><br />
 
 ### Favorite Languages.
