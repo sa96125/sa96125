@@ -7,5 +7,5 @@ Javascript, Typescript, CSS, HTML
 <br /><br />
 
 ### Experienced Libraries / Framworks.
-Vue, React, Nest, Nest, Three, AR, Tailwind, Apollo Client, Bootstrap, TypeORM 
+Vue, React, Next, Nest, Three, AR, Tailwind, Apollo Client, Bootstrap, TypeORM 
 <br /><br />
