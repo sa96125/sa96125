@@ -15,5 +15,5 @@ Vue, React, Next, Nest, Three, AR, Tailwind, Apollo Client, Bootstrap, TypeORM
 <br /><br />
 
 ### Value.
-Even if I am poor and lack skills, I will continue to run on the path I think is right. Time neither comforts me nor waits for me.
+Even if I am poor and lack skills, I will continue to run on the path I think is right. Time neither comforts me nor waits for me. Make each day count
 <br /><br />
