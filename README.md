@@ -1,5 +1,18 @@
-###  평범한 것을 특별하게:)
-portfolio.  https://chaplin.cloud.pw
-blog.       https://girinjs.tistory.com
+### Blog.
+https://girinjs.tistory.com <br />
+<br />
 
+### Experienced Javascript libraries / Framworks
+>	 Vue.js
+>	> React.js
+>	> > Nest.js
+>	> > > Nest.js
+>	>	> > > Three.js
+>	>	>	> > > AR.js 
+<br />
 
+### Favorite languages
+>	 Javascript
+>	> Typescript
+>	> > CSS
+<br />
