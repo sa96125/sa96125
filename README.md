@@ -7,7 +7,7 @@ https://goat-jongseung.info (Sorry, It's not available. on processing migration 
 <br /><br />
 
 ### Note.
-https://magic-nitrogen-8f4.notion.site/The-Ultimate-Javascript-cb74c4ec404b4eaa81439fdbc6f6a00e
+https://magic-nitrogen-8f4.notion.site/dd259c7df6664aa58542df643c896cb1?v=f37985c375724ca9b5209143d1cc49c0
 <br /><br />
 
 ### Favorite Languages.
