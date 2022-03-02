@@ -1,12 +1,4 @@
 
-### Profile.
-https://programmers.co.kr/pr/sa96125_5023
-<br /><br />
-
-### Blog.
-https://girinjs.tistory.com 
-<br /><br />
-
 <!-- ### Portfolio.
 https://goat-jongseung.info (Sorry, It's not available. on processing migration to Next.js)
 <br /><br />
