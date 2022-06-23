@@ -1,11 +1,11 @@
 
 
 ### Favorite Languages.
-Javascript, Typescript, CSS, HTML
+Javascript
 <br /><br />
 
-### Experienced Libraries / Framworks.
-Vue, React, Nest, Three, Tailwind, Apollo Client
+### Experienced
+React, Next, Tailwind, React-Query, Jest, Cypress, Nest
 <br /><br />
 
 ### Value.
