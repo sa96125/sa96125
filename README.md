@@ -1,6 +1,9 @@
-
-<img align="right" alt="Hooks" src="https://img.shields.io/badge/Even if I bump into my own incompetence and limitations, Grab it and move forward. I will continue to run on the path I think is right. Time neither comforts me nor waits for me. So, Just make each day count.-black.svg">
+<p>
+<img align="left" alt="Hooks" src="https://img.shields.io/badge/:) -white.svg">
+<img align="right" alt="Hooks" src="https://img.shields.io/badge/🔥 simple is the best -black.svg">
+</p>
 <br />
+
 
 ##### A Language.
 JavaScript
@@ -11,5 +14,5 @@ Next, Nest, Jest,
 <br /><br />
 
 ##### Links.
-🔥 https://undefined-343.gitbook.io/study-2022/
+https://undefined-343.gitbook.io/study-2022/
 <br /><br />
