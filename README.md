@@ -1,6 +1,6 @@
 
 
-### Favorite Languages.
+### A Language.
 Javascript
 <br /><br />
 
