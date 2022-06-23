@@ -6,11 +6,11 @@
 
 
 ##### A Language.
-JavaScript
+Javascript
 <br /><br />
 
 ##### Experienced
-Next, Nest, Jest, 
+Next,  Nest,  Jest. 
 <br /><br />
 
 ##### Links.
