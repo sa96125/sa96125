@@ -10,7 +10,7 @@ Javascript
 <br /><br />
 
 ##### Experienced
-Next,  Nest,  Jest. 
+SvelteKit,  Nest,  Jest. 
 <br /><br />
 
 ##### Links.
