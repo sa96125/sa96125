@@ -10,7 +10,7 @@ Javascript
 <br /><br />
 
 ##### Experienced
-TypeScript, SvelteKit, Jest. 
+SvelteKit, Vue2 
 <br /><br />
 
 ##### Links.
