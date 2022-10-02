@@ -5,14 +5,14 @@
 <br />
 
 
-##### A Language.
-Javascript
+##### Languages
+Javascript, Swift
 <br /><br />
 
 ##### Experienced
 SvelteKit, Vue2 
 <br /><br />
 
-##### Links.
-https://undefined-343.gitbook.io/study-2022/
+##### Blog
+https://girinjs.tistory.com/
 <br /><br />
