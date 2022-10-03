@@ -4,15 +4,4 @@
 </p>
 <br />
 
-
-##### Languages
-Javascript, Swift
-<br /><br />
-
-##### Experienced
-SvelteKit, Vue2 
-<br /><br />
-
-##### Blog
-https://girinjs.tistory.com/
-<br /><br />
+![대체 텍스트](./welcome.png)
