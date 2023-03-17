@@ -3,5 +3,3 @@
 <img align="right" alt="Hooks" src="https://img.shields.io/badge/🔥 simple is the best -black.svg">
 </p>
 <br />
-
-![title](welcome.png)
